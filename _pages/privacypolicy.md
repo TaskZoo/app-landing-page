@@ -19,4 +19,4 @@ Please check on this page regularly for updates regarding this privacy policy.
 
 # Contacting Us
 
-If you have any questions regarding this privacy policy, you can email taskzooapp@gmail.com.
+If you have any questions regarding this privacy policy, you can email [taskzooapp@gmail.com](taskzooapp@gmail.com).
