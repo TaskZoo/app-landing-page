@@ -40,12 +40,12 @@ features                                  :
 features                                  :
 
   - title                                 : Elegantly Organized
-    description                           : askZoo categorizes your tasks into Daily, Weekly, and Monthly sections, ensuring a streamlined approach to your productivity. Tackle each day with clarity and purpose, knowing exactly what lies ahead.
+    description                           : TaskZoo categorizes your tasks into Daily, Weekly, and Monthly sections.
     fontawesome_icon_name                 : calendar-alt
     
   - title                                 : Unlock Vibrant Animals
     description                           : Assemble and showcase a diverse collection of artful animals.
-    fontawesome_icon_name                 : elephant
+    fontawesome_icon_name                 : hippo
 
   - title                                 : Stay Ahead with Ease
     description                           : Visual incentives keep you driven and committed to your goals.
