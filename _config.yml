@@ -36,41 +36,29 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Elegantly Organized
+    description                           : askZoo categorizes your tasks into Daily, Weekly, and Monthly sections, ensuring a streamlined approach to your productivity. Tackle each day with clarity and purpose, knowing exactly what lies ahead.
+    fontawesome_icon_name                 : calendar-alt
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Unlock Vibrant Animals
+    description                           : Assemble and showcase a diverse collection of artful animals.
+    fontawesome_icon_name                 : elephant
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Stay Ahead with Ease
+    description                           : Visual incentives keep you driven and committed to your goals.
+    fontawesome_icon_name                 : rocket
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Never Miss a Beat
+    description                           : Set reminders to ensure you never miss a task or deadline.
+    fontawesome_icon_name                 : bell
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Insights at Your Fingertips
+    description                           : Monitor your progress with insightful charts and summaries.
+    fontawesome_icon_name                 : chart-line
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Nature-Inspired Themes
+    description                           : Custom artwork with a variety of natural backdrops for your zoo. 
+    fontawesome_icon_name                 : leaf
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
